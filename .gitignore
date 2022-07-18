@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/TextureChanger/package/README.md
+/TinyWarehouse/package/plugins/TinyWarehouse.dll
+/TinyWarehouse/package/TinyWarehouse.zip
+/TinyWarehouse/package/README.md
