@@ -1,0 +1,4 @@
+ID,Text,Comment
+TinyWarehouseName, Tiny Warehouse, -
+TinyWarehouseDescription, Stores a tiny amount of goods., -
+"TinyWarehouseFlavor, "Effective space usage is essential for survival., -
