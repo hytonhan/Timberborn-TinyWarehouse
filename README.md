@@ -16,7 +16,10 @@ altering the tiny warehouse's model. /shrug the tiny warehouseis basically just 
 
 # Changelog
 
-## v1.0.1 - 10.7.2022
+## v1.0.2 - 19.7.2022
+- Removed some unnecessary log messages
+
+## v1.0.1 - 19.7.2022
 - Fixed a bug which caused buildings on top of the Tiny Warehouse to be blocked
 
 ## v1.0.0 - 18.7.2022
