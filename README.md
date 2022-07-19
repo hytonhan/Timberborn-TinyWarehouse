@@ -1,7 +1,7 @@
 # Timberborn-TinyWarehouse
-Adds a compact 1x1 tiny warehouse with a capacity of 25 items to Timberborn. It can be vuilt for a small cost of 5 logs. 
+Adds a compact 1x1 tiny warehouse with a capacity of 25 items to Timberborn. It can be built for a small cost of 5 logs. 
 
-This works with game version v0.2.1.0, which at the moment of writing is the current experimental branch.
+This works with game version v0.2.1.0, which at the moment of writing is the experimental branch.
 
 # Usage
 Download and install the mod in your preferred way. Then the mod is good to go. the tiny warehouse is added to the Storage tab
@@ -15,6 +15,9 @@ As of now my github repo does not contain the model files of the warehouse. It o
 altering the tiny warehouse's model. /shrug the tiny warehouseis basically just the small warehouse but shrinked. It can be done in Unity. 
 
 # Changelog
+
+## v1.0.1 - 10.7.2022
+- Fixed a bug which caused buildings on top of the Tiny Warehouse to be blocked
 
 ## v1.0.0 - 18.7.2022
 - Initial release for Timberborn version 0.2.1.0
