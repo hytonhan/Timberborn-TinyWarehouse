@@ -6,7 +6,7 @@ using TimberbornAPI.Common;
 
 namespace Hytone.TinyWarehouse
 {
-    [BepInPlugin("hytone.plugins.tinywarehouse", "TinyWarehouse", "1.0.2")]
+    [BepInPlugin("hytone.plugins.tinywarehouse", "TinyWarehouse", "1.1.0")]
     [BepInDependency("com.timberapi.timberapi")]
     [HarmonyPatch]
     public class TinyWarehousePlugin : BaseUnityPlugin
