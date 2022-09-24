@@ -16,7 +16,13 @@ altering the tiny warehouse's model. /shrug the tiny warehouseis basically just 
 
 # Changelog
 
-# v1.1.0 - 6.8.2022
+## v2.0.0 - 23.9.2022
+- Updated to work with TimberAPI v0.5
+
+## v1.1.1 - 3.9.2022
+- Added japanese translations (Thank you sukunabikona!)
+
+## v1.1.0 - 6.8.2022
 - Fixed mod to work in Timberborn v0.2.3
 
 ## v1.0.2 - 19.7.2022

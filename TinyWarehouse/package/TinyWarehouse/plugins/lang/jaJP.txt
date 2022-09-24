@@ -1,0 +1,4 @@
+ID,Text,Comment
+TinyWarehouseName, 極小の倉庫, -
+TinyWarehouseDescription, 物をちょっとだけ蓄えられる。, -
+TinyWarehouseFlavor, 生き延びるためにはスペースの有効活用が不可欠だ。, -
