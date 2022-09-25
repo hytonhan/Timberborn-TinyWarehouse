@@ -1,0 +1,4 @@
+ID,Text,Comment
+TinyWarehouseName, Winziges Lagerhaus, -
+TinyWarehouseDescription, Lagert eine winzige Menge an Waren., -
+TinyWarehouseFlavor, Effektive Flächennutzung ist essentiel zum Überleben., -

@@ -1,10 +1,9 @@
 {
   "name": "TinyWarehouse",
-  "version_number": "2.0.0",
+  "version_number": "2.0.1",
   "website_url": "https://github.com/hytonhan/Timberborn-TinyWarehouse",
   "description": "A tiny 1x1 warehouse.",
   "dependencies": [
-    "BepInEx-BepInExPack_Timberborn-5.4.19",
     "Timberborn_Central-TimberAPI-0.5.1"
   ]
 }

@@ -16,6 +16,9 @@ altering the tiny warehouse's model. /shrug the tiny warehouseis basically just 
 
 # Changelog
 
+## v2.0.1 - 25.9.2022
+- Added German localization (thanks juf0816!)
+
 ## v2.0.0 - 23.9.2022
 - Updated to work with TimberAPI v0.5
 
